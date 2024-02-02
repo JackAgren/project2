@@ -2,7 +2,7 @@
 
 Repo for `Project 2 - Crime and Housing` for CS5830.
 
-Download the CSV file into the top-level directory
+Download the Austin crime dataset as well as the Austin population dataset into the top-level directory
 
 [Project Report](https://docs.google.com/document/d/1iiqKXQidzAaZR9A2aSDl_KLOSDoriusdmCrFmbCQAoQ/edit?usp=sharing)
 
